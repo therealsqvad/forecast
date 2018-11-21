@@ -24,6 +24,7 @@
   ],
   "devDependencies": {
     "axios": "^0.18.0",
+    "prop-types": "^15.6.2",
     "react-redux": "^5.1.1",
     "reactstrap": "^6.5.0",
     "redux": "^4.0.1",
